@@ -1,0 +1,12 @@
+Data is very important in economics because it describes and measures the issues and problems that economics seek to understand. A variety of government agencies publish economic and social data. For this course, we will generally use data from the St. Louis Federal Reserve Bank's FRED database. FRED is very user friendly. It allows you to display data in tables or charts, and you can easily download it into spreadsheet form if you want to use the data for other purposes. The FRED website includes data on nearly 400,000 domestic and international variables over time, in the following broad categories:
+
+1. Money, Banking & Finance
+2. Population, Employment, & Labor Markets (including Income Distribution)
+3. National Accounts (Gross Domestic Product & its components), Flow of Funds, and International Accounts
+4. Production & Business Activity (including Business Cycles)
+5. Prices & Inflation (including the Consumer Price Index, the Producer Price Index, and the Employment Cost Index)
+6. International Data from other nations
+7. U.S. Regional Data
+8. Academic Data (including Penn World Tables & NBER Macrohistory database)
+
+If you still do not believe that scarcity is a problem, consider the following: Does everyone require food to eat? Does everyone need a decent place to live? Does everyone have access to healthcare? In every country in the world, there are people who are hungry, homeless (for example, those who call park benches their beds), and in need of healthcare, just to focus on a few critical goods and services. Why is this the case? It is because of scarcity. Let’s delve into the concept of scarcity a little deeper, because it is crucial to understanding economics.
